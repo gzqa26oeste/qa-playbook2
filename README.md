@@ -8,8 +8,7 @@ miau
   Prioridad: Medium
   Impacto: QA no puede cerrar la verificación de los casos de prueba.
 
-- EC-16217 — DESACOPLE [FE] Al agregar las facturas al carrito se visualiza duplicado el llamado GET /pagn/cart.
-  URL: https://interbanking.atlassian.net/browse/EC-16217
-  Estado: Finalizada (resuelto)
+
   ---
-  
+  LALALALLALA
+  LALALALA
