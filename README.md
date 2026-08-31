@@ -12,7 +12,8 @@ miau
   ---
   LALALALLALA
   LALALALA
-# generar un repositorio
+# INDICACIONES
+generar un repositorio
 
 traelo a tu git  git clone url (http repositorio)
 
