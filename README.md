@@ -37,3 +37,6 @@ en github abrir la rama y "CREATE PULL REQUEST"
 aparece "ready to merge" lateral derecho
 
 merge para que aparescan mis cambios en el master
+--------
+lalalalalala ahora una nueva modificacion a traves de git pull origin main
+-----
