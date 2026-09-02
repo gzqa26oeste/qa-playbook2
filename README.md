@@ -13,31 +13,34 @@ miau
   LALALALLALA
   LALALALA
 # INDICACIONES
-generar un repositorio
+🚀 Generar un repositorio en GitHub y traerlo a tu máquina local utilizando git clone con la URL del repositorio.
+ Luego abrir la carpeta del proyecto, abrir la terminal y seleccionar Git Bash. 
+ 🌿 Crear una nueva rama para realizar los cambios con git checkout -b NUEVA-RAMA.
 
-traelo a tu git  git clone url (http repositorio)
+✏️ Generar nuevo texto en el README y guardar con CTRL + S. 
+Al guardar los cambios aparecerá una M (Modified), indicando que el archivo fue modificado.
 
-Abrir la terminal del proyecto y abrir +> gitbach
+✅ Pasar los cambios desde Changes hacia Staged Changes utilizando el signo +.  se genera un STAGED CHANGES
+ Luego verificar el estado con git status. El README debería visualizarse en color verde indicando que está listo para ser committeado.
 
-me creo una nuav rama  git checkout -b NUEVA-RAMA   para reaizar cambios
+📌 Crear el commit con el mensaje correspondiente, por ejemplo: git commit-m "FEAT: LALALALA"
 
-Generar nuevo texto en readme y guardar con CTRL+ asi queda la M 
+⬆️ Subir la rama al repositorio remoto con git push origin NUEVA-RAMA 
+->remote: Create a pull request for 'NUEVA-RAMA' on GitHub by visiting:
+Una vez ejecutado el comando, GitHub mostrará un mensaje indicando que se puede crear un Pull Request para la rama recién subida.
 
-Pasar de changes con el + y se genera un STAGED CHANGES
+🔀 Ingresar a GitHub, abrir la rama creada y seleccionar "CREATE PULL REQUEST". Completar la información necesaria y crear el PR.
 
-git status  se visualiza el README con color verde
+🎯 Una vez creado el Pull Request, verificar que aparezca el estado Ready to merge en el lateral derecho. 
+Realizar el Merge para que los cambios aparezcan en la rama principal (main o master).
 
-git commit-m "FEAT: LALALALA"
+🔄 Si posteriormente se realizan nuevas modificaciones o se desea trabajar con la última versión del proyecto,
+ actualizar el repositorio local realizando un pull desde la rama principal.
 
-git push origin NUEVA-RAMA  
-->   remote: Create a pull request for 'NUEVA-RAMA' on GitHub by visiting:
+📦 Para traer el repositorio de QA Automation a tu máquina, utilizar git clone con la URL SSH principal del proyecto QA Automation.
 
-en github abrir la rama y "CREATE PULL REQUEST"
-
-aparece "ready to merge" lateral derecho
-
-merge para que aparescan mis cambios en el master
----
-lalalalalala ahora una nueva modificacion a traves de git pull origin main
------
-para traer el repo de qaauto a mi maquina use el git clone ssh con la url de qa-automation principal del proyecto sin caracteres especiales en la url
+✅ Utilizar siempre la URL SSH oficial del proyecto.
+✅ Evitar caracteres especiales en la URL.
+✅ Crear una rama nueva antes de realizar cambios.
+✅ Realizar el Merge únicamente luego de validar el Pull Request.
+✅ Mantener el repositorio actualizado antes de comenzar una nueva tarea.
