@@ -40,3 +40,4 @@ merge para que aparescan mis cambios en el master
 ---
 lalalalalala ahora una nueva modificacion a traves de git pull origin main
 -----
+para traer el repo de qaauto a mi maquina use el git clone ssh con la url de qa-automation principal del proyecto sin caracteres especiales en la url
