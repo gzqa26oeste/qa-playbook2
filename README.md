@@ -1,26 +1,27 @@
 # qa-playbook2
 miau
-------
+```
  /\_/\\
 ( ◕ᴥ◕ )
  / >✅   Test Passed
-
-
-  /\_/\\
+```
+```
+ /\_/\\
 ( ⚆_⚆ )
  / >🐞   Bug Found
-
+```
+```
 
  /\_/\\
 ( ^_^ )
  / >🚀   Ready to Merge
-
-
+```
+```
  /\_/\\
 ( •.• )
  / >🍔   almorzando
+```
 
------
 #Bugs asociados:
 
 - EC-16223 — DESACOPLE [FRONT] Carrito con facturas. Al agregarse nuevas facturas desde el calendario, las últimas agregadas no se visualizan desplegadas.
